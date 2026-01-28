@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Lavan
 
-# Certifications
+## Certifications
  1) MS Fabric Data Engineer
  2) Databricks Data Engineer
  3) Ms Fabric Analytics Engineer
  4) AWS Cloud Practitoner
 
-# List of Projects
+## List of Projects
   Please see the repositories section for project files, architecture, code and detailed implementation steps.
   
   Azure
