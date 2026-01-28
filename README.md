@@ -4,14 +4,16 @@
 
 # List of Projects
   Please see the repositories section for project files, code and detailed implementation steps.
-  ## Azure
-  ## Kafka
-  ## Databricks
-  ## Dbt
-  ## Airflow
-  ## SQL
-  ## PowerBI
-  ## Tableau
+  Azure
+  Kafka
+  Databricks
+  Dbt
+  Airflow
+  SQL
+  Python
+  Pyspark
+  PowerBI
+  Tableau
   
 
 <!--
