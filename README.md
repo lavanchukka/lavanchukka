@@ -1,5 +1,11 @@
 ## Hi there 👋 I'm Lavan
 
+## Education
+
+## My Certifications
+
+## List of Projects
+
 <!--
 **lavanchukka/lavanchukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
