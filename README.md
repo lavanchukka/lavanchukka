@@ -7,7 +7,7 @@
  4) AWS Cloud Practitoner
 
 # List of Projects
-  Please see the repositories section for project files, code and detailed implementation steps.
+  Please see the repositories section for project files, architecture, code and detailed implementation steps.
   
   Azure
   Kafka
