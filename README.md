@@ -5,6 +5,7 @@
 ## My Certifications
 
 ## List of Projects
+  Please see the repositories section for project files, code and detailed implementation steps.
 
 <!--
 **lavanchukka/lavanchukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
