@@ -1,11 +1,18 @@
 ## Hi there 👋 I'm Lavan
 
-## Education
+# Certifications
 
-## My Certifications
-
-## List of Projects
+# List of Projects
   Please see the repositories section for project files, code and detailed implementation steps.
+  ## Azure
+  ## Kafka
+  ## Databricks
+  ## Dbt
+  ## Airflow
+  ## SQL
+  ## PowerBI
+  ## Tableau
+  
 
 <!--
 **lavanchukka/lavanchukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
