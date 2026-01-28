@@ -10,10 +10,12 @@
   Please see the repositories section for project files, architecture, code and detailed implementation steps.
   
   Azure
+  MS Fabric
   Kafka
   Databricks
   Dbt
   Airflow
+  Snowflake
   SQL
   Python
   Pyspark
