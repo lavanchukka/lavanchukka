@@ -18,6 +18,7 @@
   Snowflake
   SQL
   Python
+  Spark
   Pyspark
   PowerBI
   Tableau
