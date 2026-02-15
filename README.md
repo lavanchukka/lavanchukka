@@ -2,7 +2,7 @@
 
 ## Certifications
  1) MS Fabric Data Engineer
- 2) Databricks Data Engineer
+ 2) Databricks Data Engineer Professional
  3) Ms Fabric Analytics Engineer
  4) AWS Cloud Practitoner
 
