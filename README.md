@@ -6,6 +6,23 @@
  3) Ms Fabric Analytics Engineer
  4) AWS Cloud Practitoner
 
+### 🛠️ Languages & Tools
+
+<p align="center" style="margin-bottom: 15px;">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+
+<p align="center" style="margin-bottom: 15px;">
+  <img src="https://skillicons.dev/icons?i=docker,redis,postgresql,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,react,typescript,javascript,tailwind,css,postman&theme=dark" />
+</p>
+
+---
+
+
 ## List of Projects
   Please see the repositories section for project files, architecture, code and detailed implementation steps.
   
