@@ -6,7 +6,7 @@
  3) Ms Fabric Analytics Engineer
  4) AWS Cloud Practitoner
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center" style="margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
