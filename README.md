@@ -1,5 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lavan
 
+I’m a Data Engineer with over 17 years of experience, Ex-Mercedes Benz, and the creator of Data With Baraa on YouTube. I visually explain complex data concepts and build courses with real-world projects and practical lessons that help people grow their careers.
+
+---
+
 ## 🎓 Certifications
  1) Microsoft Fabric Data Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
  2) Microsoft Fabric Analytics Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
@@ -23,7 +27,7 @@
 ---
 
 
-## My Projects
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7943bf36-6f15-4d00-8224-1514c13b66b3" /> My Projects
   Please click on the links or see the repositories section for more projects, project files, architecture, code and detailed implementation steps.
   
  1) [Sales-Deals-End2End-Azure-Project](https://github.com/lavanchukka/Sales-Deals-End2End-Azure-Project)
