@@ -48,7 +48,7 @@
 
  11) [FMCG-Databricks-End-to-End-Project](https://github.com/lavanchukka/FMCG-Databricks-End-to-End-Project)
 
-
+---
 
 ### Projects on Tableau, Snowflake, Databricks, Dbt, Kafka  will be added soon!
 
