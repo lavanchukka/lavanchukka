@@ -9,7 +9,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,Pyspark,tensorflow,sklearn&theme=dark" />
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
@@ -50,20 +50,7 @@
 
 
 
-  Azure
-  MS Fabric
-  Kafka
-  Databricks
-  Dbt
-  Airflow
-  Snowflake
-  SQL
-  Python
-  Spark
-  Pyspark
-  PowerBI
-  Tableau
-  
+### Projects on Tableau, Snowflake, Databricks, Dbt, Kafka  will be added soon!
 
 <!--
 **lavanchukka/lavanchukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
