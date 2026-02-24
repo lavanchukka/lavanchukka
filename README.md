@@ -26,6 +26,10 @@
 ## List of Projects
   Please see the repositories section for project files, architecture, code and detailed implementation steps.
   
+ 1) Microsoft Fabric Analytics Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
+ 2) Databricks Data Engineer Professional (will be updated on 3.7.26)
+ 3) AWS Certified Cloud Practitioner [Verify](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A) 
+
   Azure
   MS Fabric
   Kafka
