@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Lavan
 
 ## Certifications
- 1) MS Fabric Data Engineer  https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9
- 2) Ms Fabric Analytics Engineer https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9
+ 1) [Microsoft Fabric Data Engineer](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
+ 2) [Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
  3) Databricks Data Engineer Professional
  4) AWS Certified Cloud Practitioner 
 
