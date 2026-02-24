@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Lavan
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lavan
 
-## Certifications
+## 🎓 Certifications
  1) Microsoft Fabric Data Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
  2) Microsoft Fabric Analytics Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
  3) Databricks Data Engineer Professional (will be updated on 3.7.26)
@@ -23,7 +23,7 @@
 ---
 
 
-## List of Projects
+## My Projects
   Please click on the links or see the repositories section for more projects, project files, architecture, code and detailed implementation steps.
   
  1) [Sales-Deals-End2End-Azure-Project](https://github.com/lavanchukka/Sales-Deals-End2End-Azure-Project)
