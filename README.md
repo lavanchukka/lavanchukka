@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Lavan
 
 ## Certifications
- 1) [Microsoft Fabric Data Engineer](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
- 2) [Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
+ 1) Microsoft Fabric Data Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
+ 2) Microsoft Fabric Analytics Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
  3) Databricks Data Engineer Professional (will be updated on 3.7.26)
- 4) [AWS Certified Cloud Practitioner](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A) 
+ 4) AWS Certified Cloud Practitioner [Verify](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A) 
 
 ## 🛠️ Languages & Tools
 
