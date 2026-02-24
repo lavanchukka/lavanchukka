@@ -24,7 +24,7 @@
 
 
 ## List of Projects
-  Please see the repositories section for more projects, project files, architecture, code and detailed implementation steps.
+  Please click on the links or see the repositories section for more projects, project files, architecture, code and detailed implementation steps.
   
  1) [Sales-Deals-End2End-Azure-Project](https://github.com/lavanchukka/Sales-Deals-End2End-Azure-Project)
 
@@ -33,6 +33,20 @@
  3) [USGS-Earthquake-Events-Medallion-MS-Fabric-Project](https://github.com/lavanchukka/USGS-Earthquake-Events-Medallion-Fabric-Project)
 
  4) [Airbnb-End2End-Azure-Project](https://github.com/lavanchukka/Airbnb-Azure-End2End-Project)
+
+ 5) [PowerBI-Portfolio-Dashboard-Project](https://github.com/lavanchukka/PowerBI-Portfolio-Dashboard)
+
+ 6) [PowerBI-Dashboard-Safety-Department-Project](https://github.com/lavanchukka/PowerBI-Dashboard-Safety)
+
+ 7) [SQL-Data-Warehouse-Medallion-Project](https://github.com/lavanchukka/SQL-Data-Warehouse-Medallion-Project)
+
+ 8) [Sql-Advanced-Analytics](https://github.com/lavanchukka/Sql-Advanced-Analytics)
+
+ 9) [MusicApp-Realtime-End2End-Data-Engineering-Project](https://github.com/lavanchukka/MusicApp-Realtime-End2End-Data-Engineering-Project)
+
+ 10) [Patient-Flow-Azure-Data-Engineer-Project](https://github.com/lavanchukka/Patient-Flow-Azure-Data-Engineer-Project)
+
+ 11) [FMCG-Databricks-End-to-End-Project](https://github.com/lavanchukka/FMCG-Databricks-End-to-End-Project)
 
 
 
