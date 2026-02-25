@@ -43,7 +43,7 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,react,typescript,javascript,tailwind,css,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 ---
