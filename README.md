@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lavan
 
-I'm a Data & Analytics enthusiast with a Master’s in Information Systems, and worked on various data engineering tools and services like Azure, Microsoft Fabric, Databricks, Kafka, dbt, Snowflake, Power BI, Tableau, and Looker.
+I'm a Data & Analytics enthusiast with a Master’s in Information Systems, and worked on various data engineering tools and services like Azure, Microsoft Fabric, Databricks, Kafka, dbt, Sql Server, Snowflake, Power BI, Tableau.
 
 I enjoy going beyond just using tools and actually understanding how they work under the hood like diving into architecture, DAG's, query execution plans, performance optimizations, and governance. Lately, I have been spending more time exploring Databricks and using new services that has launched. 
 
