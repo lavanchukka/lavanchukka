@@ -18,8 +18,7 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
 
 <p align="center" style="margin-bottom: 15px;">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
- 
- <img width="80" height="80" src= "https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&theme=light" />
+ <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7723e8c9-b933-41e8-8eba-01cf31c37434" />
  
  <img src="https://skillicons.dev/icons?i=python,kafka&theme=dark" />
  
