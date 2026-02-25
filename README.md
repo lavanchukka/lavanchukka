@@ -14,7 +14,7 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
  3) Databricks Data Engineer Professional (will be updated on 3.7.26)
  4) AWS Certified Cloud Practitioner [Verify](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A) 
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech stack
 
 <p align="center" style="margin-bottom: 15px;">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
