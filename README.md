@@ -17,11 +17,11 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 ## 🛠️ Languages & Tools
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,Pyspark,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,azure,kafka&theme=dark" />
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=docker,redis,postgresql,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,postgresql,mysql&theme=dark" />
 </p>
 
 <p align="center">
