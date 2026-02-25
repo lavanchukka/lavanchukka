@@ -19,7 +19,7 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 <p align="center" style="margin-bottom: 15px;">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
 <img src= "https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&theme=light" />
- <img src="https://skillicons.dev/icons?i=python,azure,kafka&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=python,kafka&theme=dark" />
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
@@ -37,6 +37,17 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
   
   <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/kql_database.png" width="60px"> 
   
+</p>
+
+<p align="center" style="margin-bottom: 15px;">
+ 
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/74f7b727-1ee1-4b52-977a-19fd3de4b2bb" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e942141-87db-44b5-9515-0abfd78993d7" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6238f41c-0b04-4c06-ab6f-6e3b9718df32" />
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ebda08a-1034-474d-8f1e-4015801d6fba" />
+
+
+ 
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
