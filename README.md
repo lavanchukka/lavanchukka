@@ -18,9 +18,13 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
 
 <p align="center" style="margin-bottom: 15px;">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
+ 
  <img width="80" height="80" src= "https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&theme=light" />
+ 
  <img src="https://skillicons.dev/icons?i=python,kafka&theme=dark" />
+ 
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69b6fe3f-f9bf-4d17-960b-b347214ccae7" />
+ 
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0474d0d8-413f-447a-aa15-9034a9ea8a6d" />
 
 
@@ -57,10 +61,14 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker&theme=dark" />
-</p>
-
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1bff5404-5f99-42ab-a9f0-5b542ae1f14f" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b595fca5-4f01-42b9-963b-5113af717487" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/eaf62330-0db9-4ef6-9f9c-4befdb1fd6c8" />
+  
 <p align="center">
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46151555-23ed-4bc9-941f-d7b0a75b7cfe" />
+ <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
