@@ -18,8 +18,12 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 
 <p align="center" style="margin-bottom: 15px;">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
-<img src= "https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&theme=light" />
+ <img width="80" height="80" src= "https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&theme=light" />
  <img src="https://skillicons.dev/icons?i=python,kafka&theme=dark" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69b6fe3f-f9bf-4d17-960b-b347214ccae7" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0474d0d8-413f-447a-aa15-9034a9ea8a6d" />
+
+
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
@@ -53,7 +57,7 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=docker,postgresql,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker&theme=dark" />
 </p>
 
 <p align="center">
