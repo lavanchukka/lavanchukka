@@ -54,6 +54,7 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6238f41c-0b04-4c06-ab6f-6e3b9718df32" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e5893db2-83ac-4eb8-b24f-a611c79fe83f" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6ebda08a-1034-474d-8f1e-4015801d6fba" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/04a1d161-8f47-419f-a9da-8b7fb102dd3f" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7aba94bb-ee06-4687-a54d-0430bcca24e1" />
 
 
