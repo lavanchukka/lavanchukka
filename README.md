@@ -21,6 +21,23 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png" width="60px"> 
+  
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="60px"> 
+ 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/event_house.png" width="60px"> 
+  
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/eventstream.png" width="60px"> 
+  
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/dataflow_gen2.png" width="60px"> 
+  
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_factory.png" width="60px"> 
+  
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/kql_database.png" width="60px"> 
+  
+</p>
+
+<p align="center" style="margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=docker,postgresql,mysql&theme=dark" />
 </p>
 
