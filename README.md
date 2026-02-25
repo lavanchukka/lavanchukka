@@ -30,9 +30,10 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png" width="60px"> 
-  
+
   <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="60px"> 
+
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png" width="60px"> 
  
   <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/event_house.png" width="60px"> 
   
