@@ -17,7 +17,8 @@ I’m also currently building hands-on projects using Kafka, dbt, and Snowflake.
 ## 🛠️ Languages & Tools
 
 <p align="center" style="margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=python,azure,kafka&theme=dark" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37ba3fce-c71e-470c-a369-af1e7dc3ab0c" />
+ <img src="https://skillicons.dev/icons?i=python,azure,kafka&theme=dark" />
 </p>
 
 <p align="center" style="margin-bottom: 15px;">
