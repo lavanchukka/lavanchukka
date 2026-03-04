@@ -74,7 +74,6 @@ I’m also currently working on projects using Kafka, dbt, and Snowflake.
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
----
 
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7943bf36-6f15-4d00-8224-1514c13b66b3" /> My Projects
