@@ -99,15 +99,15 @@ I’m currently working on projects using Kafka, dbt, MLops, MLFlows,and Snowfla
 
  10) [Patient-Flow-Azure-Data-Engineer-Project](https://github.com/lavanchukka/Patient-Flow-Azure-Data-Engineer-Project)
 
- 11) [FMCG-Databricks-End-to-End-Project](https://github.com/lavanchukka/FMCG-Databricks-End-to-End-Project)
+ 11) [Databricks-Automated-Declarative-Pipelines-Bank Project](https://github.com/lavanchukka/Databricks-Automated-Declarative-Pipelines-Workflows-Bank-Project)
 
- 12) [Databricks-Automated-Declarative-Pipelines-Bank Project](https://github.com/lavanchukka/Databricks-Automated-Declarative-Pipelines-Workflows-Bank-Project)
+ 12) [Databricks-End2End-Book-Store-Project](https://github.com/lavanchukka/Databricks-End2End-Book-Store-Project)
 
- 13) 
+ 13) [Daatbricks-HR-Analytics-Transformations](https://github.com/lavanchukka/HR-Analytics-Databricks-Transformations)
 
 ---
 
-### Projects on Tableau, Snowflake, Databricks, Dbt, Kafka  will be updated soon!
+### Projects on Snowflake, Dbt, Kafka  will be updated soon!
 
 <!--
 **lavanchukka/lavanchukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
