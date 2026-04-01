@@ -78,34 +78,49 @@ I’m currently working on projects using Kafka, dbt, MLops, MLFlows,and Snowfla
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7943bf36-6f15-4d00-8224-1514c13b66b3" /> My Projects
   Please click on the links or see the repositories section for more projects, project files, architecture, code and detailed implementation steps.
-  
- 1) [Sales-Deals-End2End-Azure-Project](https://github.com/lavanchukka/Sales-Deals-End2End-Azure-Project)
 
- 2) [NYC-Taxi-Trips-MS-Fabric-Project](https://github.com/lavanchukka/NYC-Taxi-Trips-MS-Fabric-Project)
+  ## MS Fabric
+ 
+ 1) [NYC-Taxi-Trips-MS-Fabric-Project](https://github.com/lavanchukka/NYC-Taxi-Trips-MS-Fabric-Project)
 
- 3) [USGS-Earthquake-Events-Medallion-MS-Fabric-Project](https://github.com/lavanchukka/USGS-Earthquake-Events-Medallion-Fabric-Project)
+ 2) [USGS-Earthquake-Events-Medallion-MS-Fabric-Project](https://github.com/lavanchukka/USGS-Earthquake-Events-Medallion-Fabric-Project)
 
- 4) [Airbnb-End2End-Azure-Project](https://github.com/lavanchukka/Airbnb-Azure-End2End-Project)
+ ## Databricks End-End
+ 
+ 1) [Databricks-Automated-Declarative-Pipelines-Bank Project](https://github.com/lavanchukka/Databricks-Automated-Declarative-Pipelines-Workflows-Bank-Project)
 
- 5) [PowerBI-Portfolio-Dashboard-Project](https://github.com/lavanchukka/PowerBI-Portfolio-Dashboard)
+ 2) [Databricks-End2End-Book-Store-Project](https://github.com/lavanchukka/Databricks-End2End-Book-Store-Project)
 
- 6) [PowerBI-Dashboard-Safety-Department-Project](https://github.com/lavanchukka/PowerBI-Dashboard-Safety)
+ 3) [Databricks-HR-Analytics-Transformations](https://github.com/lavanchukka/HR-Analytics-Databricks-Transformations)
 
- 7) [SQL-Data-Warehouse-Medallion-Project](https://github.com/lavanchukka/SQL-Data-Warehouse-Medallion-Project)
+ ## Azure, Kafka  
 
- 8) [Sql-Advanced-Analytics](https://github.com/lavanchukka/Sql-Advanced-Analytics)
+ 1) [Airbnb-End2End-Azure-Project](https://github.com/lavanchukka/Airbnb-Azure-End2End-Project)
+    
+ 2) [Sales-Deals-End2End-Azure-Project](https://github.com/lavanchukka/Sales-Deals-End2End-Azure-Project)
+ 3) [MusicApp-Realtime-End2End-Data-Engineering-Project](https://github.com/lavanchukka/MusicApp-Realtime-End2End-Data-Engineering-Project)
 
- 9) [MusicApp-Realtime-End2End-Data-Engineering-Project](https://github.com/lavanchukka/MusicApp-Realtime-End2End-Data-Engineering-Project)
+ 4) [Patient-Flow-Azure-Data-Engineer-Project](https://github.com/lavanchukka/Patient-Flow-Azure-Data-Engineer-Project)
 
- 10) [Patient-Flow-Azure-Data-Engineer-Project](https://github.com/lavanchukka/Patient-Flow-Azure-Data-Engineer-Project)
 
- 11) [Databricks-Automated-Declarative-Pipelines-Bank Project](https://github.com/lavanchukka/Databricks-Automated-Declarative-Pipelines-Workflows-Bank-Project)
+ ## SQL
+ 
+ 1) [SQL-Data-Warehouse-Medallion-Project](https://github.com/lavanchukka/SQL-Data-Warehouse-Medallion-Project)
 
- 12) [Databricks-End2End-Book-Store-Project](https://github.com/lavanchukka/Databricks-End2End-Book-Store-Project)
+ 2) [Sql-Advanced-Analytics](https://github.com/lavanchukka/Sql-Advanced-Analytics)
 
- 13) [Daatbricks-HR-Analytics-Transformations](https://github.com/lavanchukka/HR-Analytics-Databricks-Transformations)
 
----
+ ##  Power BI
+
+ 1) [PowerBI-Portfolio-Dashboard-Project](https://github.com/lavanchukka/PowerBI-Portfolio-Dashboard)
+
+ 2) [PowerBI-Dashboard-Safety-Department-Project](https://github.com/lavanchukka/PowerBI-Dashboard-Safety)
+
+   
+
+
+
+
 
 ### Projects on Snowflake, Dbt, Kafka  will be updated soon!
 
