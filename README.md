@@ -101,6 +101,10 @@ I’m currently working on projects using Kafka, dbt, and Snowflake.
 
  11) [FMCG-Databricks-End-to-End-Project](https://github.com/lavanchukka/FMCG-Databricks-End-to-End-Project)
 
+ 12) [Databricks-Automated-Declarative-Pipelines-Bank Project](https://github.com/lavanchukka/Databricks-Automated-Declarative-Pipelines-Workflows-Bank-Project)
+
+ 13) 
+
 ---
 
 ### Projects on Tableau, Snowflake, Databricks, Dbt, Kafka  will be updated soon!
