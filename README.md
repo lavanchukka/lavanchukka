@@ -2,7 +2,7 @@
 
 I'm a Data enthusiast with a Master’s in Information Systems & Management, and worked on various data engineering tools and services like Azure, Microsoft Fabric, Databricks, Kafka, dbt, Sql Server, Snowflake, Power BI, Tableau.
 
-I enjoy going beyond just using tools and actually understanding how they work under the hood like diving into architecture, DAG's, query execution plans, performance optimizations, and governance. Lately, I have been spending more time exploring Databricks and using new services that has launched. 
+I enjoy going beyond just using tools and actually understanding how they work under the hood like diving into architecture, query execution plans, performance optimizations, and governance. Lately, I have been spending more time exploring Databricks and using new services that has launched. 
 
 I’m currently working on projects using Kafka, dbt, MLops, MLFlows,and Snowflake.
 
