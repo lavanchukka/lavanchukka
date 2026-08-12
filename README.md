@@ -2,7 +2,7 @@
 
 I'm a Data enthusiast with Master’s in Information Systems & Management, and worked on various data engineering tools and services like Azure, Microsoft Fabric, Databricks, Kafka, dbt, Sql Server, Snowflake, Power BI, Tableau.
 
-I enjoy going beyond just using tools and actually understanding how they work under the hood like diving into architecture, query execution plans, performance optimizations, and governance. Lately, I have been spending more time exploring Databricks and using new services that has launched. 
+I enjoy going beyond just using tools and actually understanding how they work under the hood like diving into architecture, query execution plans, performance optimizations, and governance. Lately, I have been spending more time exploring Databricks and testing new services that has launched. 
 
 I’m currently working on projects using dbt, MLops, MLFlows,and Snowflake.
 
@@ -31,19 +31,20 @@ I’m currently working on projects using dbt, MLops, MLFlows,and Snowflake.
 
 <p align="center" style="margin-bottom: 15px;">
 
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="60px"> 
-
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/fabric.png" width="60px"> 
+  
+   <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/data_warehouse.png" width="60px"> 
  
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/event_house.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/event_house.png" width="60px"> 
   
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/eventstream.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/eventstream.png" width="60px"> 
   
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/dataflow_gen2.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/dataflow_gen2.png" width="60px"> 
   
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_factory.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/data_factory.png" width="60px"> 
   
-  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/kql_database.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/kql_database.png" width="60px"> 
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming-2024-edition/environment.png" width="60px">
   
 </p>
 
