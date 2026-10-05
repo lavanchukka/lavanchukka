@@ -12,7 +12,8 @@ I’m currently working on projects using dbt, MLops, MLFlows,and Snowflake.
  1) Microsoft Fabric Data Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/343640923E3E2C2D?sharingId=E6FDB5BE7171C3C9)
  2) Microsoft Fabric Analytics Engineer [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ChukkaLavanKumarGoud-0967/AD17A4A856DCC0AB?sharingId=E6FDB5BE7171C3C9)
  3) Databricks Data Engineer Professional (will be updated on 10.30.26)
- 4) AWS Certified Cloud Practitioner [Verify](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A) 
+ 4) AWS Certified Cloud Practitioner [Verify](https://www.credly.com/badges/335e9c42-de0a-4215-803f-733e630c66d6?source=linked_in_profile%0A)
+ 5) Datacamp Data Engineer in SQL [Verify](https://www.datacamp.com/statement-of-accomplishment/track/4f66f4ccb65a8e4d666c6ff31634444a8dc1d3ff?raw=1)
 
 ## 🛠️ Tech stack
 
